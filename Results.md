@@ -17,7 +17,7 @@
 | **Problems Attempted** | 26 |
 | **Problems Solved** | 26 |
 | **Competition Duration** | 24 Hours |
-| **Best Problem Score** | 80.75 (Bitonic Sequences) |
+| **Best Problem Score** | 70.53 (Continued Fractions) |
 
 ---
 
