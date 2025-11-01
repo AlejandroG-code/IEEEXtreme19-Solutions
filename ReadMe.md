@@ -39,6 +39,7 @@
 - **Alejandro Gonzalez** 💻
 - **Daniela Hueramo** 💻
 - **Miguel Vargas** 💻
+- **Jose Romo** 💻
 
 ---
 
