@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![IEEEXtreme Competition](https://csachademy.com/static/svg/XtremeLogo19.svg)
+![IEEEXtreme Competition](https://csacademy.com/static/svg/XtremeLogo19.svg)
 
 **24-Hour Programming Marathon | Global Competition Results**
 
