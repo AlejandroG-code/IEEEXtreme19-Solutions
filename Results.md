@@ -60,7 +60,7 @@
 
 ## 🏆 **Overall Assessment: STRONG PERFORMANCE** 🏆
 
-**Best Percentile Achievement: 71.35% (The Twin Occurrence Quest)**
+**Best Percentile Achievement: 70.53 (Continued Fractions)**
 
 *We demonstrated excellent early-contest execution, achieving top percentiles in the first hour and maintaining consistent performance throughout the 24-hour competition.*
 
